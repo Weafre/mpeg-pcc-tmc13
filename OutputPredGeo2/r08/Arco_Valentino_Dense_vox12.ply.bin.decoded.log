@@ -1,0 +1,45 @@
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "Arco_Valentino_Dense_vox12.ply.bin.decoded.ply"
+    uncompressedDataPath  : "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/Arco_Valentino_Dense_vox12.ply"
+    compressedStreamPath  : "Arco_Valentino_Dense_vox12.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 39234 B
+positions processing time (user): 0.008 s
+
+colors bitstream size 34694 B
+colors processing time (user): 0.098 s
+
+positions bitstream size 55677 B
+positions processing time (user): 0.012 s
+
+colors bitstream size 58505 B
+colors processing time (user): 0.146 s
+
+positions bitstream size 1023996 B
+positions processing time (user): 0.236 s
+
+colors bitstream size 1136304 B
+colors processing time (user): 2.812 s
+
+positions bitstream size 1051039 B
+positions processing time (user): 0.237 s
+
+colors bitstream size 1137066 B
+colors processing time (user): 2.864 s
+
+Total bitstream size 4536594 B
+Processing time (wall): 6.691 s
+Processing time (user): 6.517 s
