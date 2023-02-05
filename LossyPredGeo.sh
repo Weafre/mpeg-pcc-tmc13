@@ -14,12 +14,22 @@ dirs=(  "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects
 rates=("/r01" "/r02" "/r03" "/r04" "/r05" "/r06" "/r07" "/r08" "/r09" "/r10" "/r11" "/r12" "/r13" "/r14" "/r15"  )
 
 
-{
+
 for idx in "${!dirs[@]}";
 do
-	for ridx in {0..14}; do
-	scripts/collect-tmc13.pl  "${cfgs[$idx]}${rates[$ridx]}" ${pcs[$idx]}  0   "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputPredGeo${rates[$ridx]}/${pcs[$idx]}"  ${dirs[$idx]}
-	done
+  for ridx in {0..14}; do
+  make -f  $PWD/scripts/Makefile.tmc13-step -C "OutputPredGeo${rates[$ridx]}"  VPATH="${cfgs[$idx]}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
+
 done
-}> TestPredGeo.txt
+
+
+
+# {
+# for idx in "${!dirs[@]}";
+# do
+# 	for ridx in {0..14}; do
+# 	scripts/collect-tmc13.pl  "${cfgs[$idx]}${rates[$ridx]}" ${pcs[$idx]}  0   "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputPredGeo${rates[$ridx]}/${pcs[$idx]}"  ${dirs[$idx]}
+# 	done
+# done
+# }> TestPredGeo.txt
 
