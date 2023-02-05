@@ -1,0 +1,154 @@
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "Arco_Valentino_Dense_vox12.ply.bin.ply"
+    uncompressedDataPath  : "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/Arco_Valentino_Dense_vox12.ply"
+    compressedStreamPath  : "Arco_Valentino_Dense_vox12.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 1
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 1
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 2 (Azimuth)
+    predGeomAzimuthSortPrecision       : 8
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+    color
+        attribute                             : ...
+        attrScale                             : 0
+        attrOffset                            : 0
+        bitdepth                              : 8
+        defaultValue                          : 
+        colourMatrix                          : 1 (Bt709)
+        transformType                         : 0 (RAHT)
+        rahtPredictionEnabled                 : 1
+        rahtPredictionThreshold0              : 2
+        rahtPredictionThreshold1              : 6
+        numberOfNearestNeighborsInPrediction  : 2
+        adaptivePredictionThreshold           : 0
+        intraLodSearchRange                   : -1
+        interLodSearchRange                   : -1
+        lod_neigh_bias                        : 1, 1, 1
+        lodDecimator                          : 0 (None)
+        max_num_direct_predictors             : 3
+        direct_avg_predictor_disabled_flag    : 0
+        predWeightBlending                    : 0
+        levelOfDetailCount                    : 0
+        dist2                                 : 0
+        dist2PercentileEstimate               : 0.85
+        positionQuantizationScaleAdjustsDist2 : 0
+        lodSamplingPeriod                     : 
+        intraLodPredictionSkipLayers          : -1
+        interComponentPredictionEnabled       : 0
+        lastComponentPredictionEnabled        : 1
+        canonical_point_order_flag            : 0
+        spherical_coord_flag                  : 0
+        attrSphericalMaxLog2                  : 0
+        aps_scalable_enable_flag              : 0
+        max_neigh_range                       : 4
+        qp                                    : 47
+        qpChromaOffset                        : 0
+        aps_slice_qp_deltas_present_flag      : 0
+        qpLayerOffsetsLuma                    : 
+        qpLayerOffsetsChroma                  : 
+        quantNeighWeight                      : 16, 8, 4
+
+Slice number: 4
+positions bitstream size 40027 B (14.8675 bpp)
+positions processing time (user): 0.345 s
+colors bitstream size 83 B (0.0308292 bpp)
+colors processing time (user): 0.105 s
+positions bitstream size 57427 B (13.7012 bpp)
+positions processing time (user): 0.606 s
+colors bitstream size 259 B (0.0617936 bpp)
+colors processing time (user): 0.15 s
+positions bitstream size 1085325 B (12.1718 bpp)
+positions processing time (user): 17.687 s
+colors bitstream size 3954 B (0.0443436 bpp)
+colors processing time (user): 3.008 s
+positions bitstream size 1108101 B (12.4272 bpp)
+positions processing time (user): 17.919 s
+colors bitstream size 3489 B (0.0391287 bpp)
+colors processing time (user): 3.146 s
+Total frame size 2298745 B
+Total bitstream size 2298745 B
+Processing time (wall): 57.08 s
+Processing time (user): 55.572 s

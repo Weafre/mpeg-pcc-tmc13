@@ -1,0 +1,60 @@
+PCC quality measurement software, version 0.13.5
+
+infile1:        /home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/Arco_Valentino_Dense_vox12.ply
+infile2:        Arco_Valentino_Dense_vox12.ply.bin.decoded.ply
+normal1:        
+singlePass:     0
+hausdorff:      0
+color:          1
+lidar:          1
+resolution:     4095
+dropDuplicates: 2
+neighborsProc:  1
+averageNormals: 1
+mseSpace:       1
+nbThreads:      1
+
+Verifying if the data is loaded correctly.. The last point is: 2016 3007 1811
+Reading file 1 done.
+Verifying if the data is loaded correctly.. The last point is: 694 3306 1164
+Reading file 2 done.
+Imported intrinsic resoluiton: 4095
+Peak distance for PSNR: 4095
+Point cloud sizes for org version, dec version, and the scaling ratio: 1481746, 1481746, 1
+Normals prepared.
+
+WARNING: no reflectance property in input files, disabling reflectance metrics.
+1. Use infile1 (A) as reference, loop over A, use normals on B. (A->B).
+   mse1      (p2point): 0
+   mse1,PSNR (p2point): inf
+   mse1      (p2plane): 0
+   mse1,PSNR (p2plane): inf
+   c[0],    1         : 0.0126144
+   c[1],    1         : 0.00027845
+   c[2],    1         : 0.000296789
+   c[0],PSNR1         : 18.9913
+   c[1],PSNR1         : 35.5525
+   c[2],PSNR1         : 35.2755
+2. Use infile2 (B) as reference, loop over B, use normals on A. (B->A).
+   mse2      (p2point): 0
+   mse2,PSNR (p2point): inf
+   mse2      (p2plane): 0
+   mse2,PSNR (p2plane): inf
+   c[0],    2         : 0.0126144
+   c[1],    2         : 0.00027845
+   c[2],    2         : 0.000296789
+   c[0],PSNR2         : 18.9913
+   c[1],PSNR2         : 35.5525
+   c[2],PSNR2         : 35.2755
+3. Final (symmetric).
+   mseF      (p2point): 0
+   mseF,PSNR (p2point): inf
+   mseF      (p2plane): 0
+   mseF,PSNR (p2plane): inf
+   c[0],    F         : 0.0126144
+   c[1],    F         : 0.00027845
+   c[2],    F         : 0.000296789
+   c[0],PSNRF         : 18.9913
+   c[1],PSNRF         : 35.5525
+   c[2],PSNRF         : 35.2755
+Job done! 3.99 seconds elapsed (excluding the time to load the point clouds).
