@@ -1,0 +1,2 @@
+config,sequence,variant,dec.enc.match,dec.ext.maxrssk,dec.ext.utime,dec.framecount,dec.numpoints,dec.status,enc.ext.bits,enc.ext.maxrssk,enc.ext.utime,enc.status,frame,src.framecount,src.numpoints
+/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_multiQP/predgeom-raht/lossy-geom-lossy-attrs/shiva_00035_vox12/r01,0,OutputPredGeo2/r01/,missing,,?,1,,,0,,?,,,1,
