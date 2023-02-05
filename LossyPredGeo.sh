@@ -21,7 +21,7 @@ do
   make -f  $PWD/scripts/Makefile.tmc13-step -C "OutputPredGeo2${rates[$ridx]}"  VPATH="${cfgs[$idx]}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
 
 done
-
+done
 
 
 {
