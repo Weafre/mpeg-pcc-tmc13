@@ -1,0 +1,31 @@
+build/tmc3/tmc3 --mode=0 --compressedStreamPath="output/bitstream.ply.bin"  --mergeDuplicatedPoints=0 --convertPlyColourspace=1 --trisoupNodeSizeLog2=0  --neighbourAvailBoundaryLog2=8 --intra_pred_max_node_size_log2=6 --planarEnabled=1  --uncompressedDataPath="../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply" --levelOfDetailCount=12 --intraLodPredictionSkipLayers=0  --adaptivePredictionThreshold=64 --qpChromaOffset=0 --qp=4  --bitdepth=8  --attribute=color 
+
+build/tmc3/tmc3 --mode=0 --compressedStreamPath="output/bitstream.ply.bin"  --mergeDuplicatedPoints=0 --convertPlyColourspace=1 --trisoupNodeSizeLog2=0  --neighbourAvailBoundaryLog2=8 --intra_pred_max_node_size_log2=6 --planarEnabled=1  --uncompressedDataPath=../Datasets/TestPCs/10bits/phil_0010.ply --levelOfDetailCount=12 --intraLodPredictionSkipLayers=0  --adaptivePredictionThreshold=64 --qpChromaOffset=0 --qp=4  --bitdepth=8  --attribute=color 
+
+reconstructedDataPath
+
+build/tmc3/tmc3 --mode=1 --compressedStreamPath="output/bitstream.ply.bin"  --mergeDuplicatedPoints=0 --convertPlyColourspace=1 --trisoupNodeSizeLog2=0  --neighbourAvailBoundaryLog2=8 --intra_pred_max_node_size_log2=6 --planarEnabled=1  --uncompressedDataPath=../Datasets/TestPCs/10bits/phil_0010.ply --levelOfDetailCount=12 --intraLodPredictionSkipLayers=0  --adaptivePredictionThreshold=64 --qpChromaOffset=0 --qp=4  --bitdepth=8  --attribute=color  --reconstructedDataPath=DecodedPCs/arco12bits.ply
+
+
+encoding using cfg file 
+
+build/tmc3/tmc3  -c /home/datnguyen/Projects/mpeg-pcc-tmc13/cfg/octree-predlift/lossless-geom-lossless-attrs/arco_valentino_dense_vox12/encoder.cfg  --uncompressedDataPath="../Datasets/TestPCs/12bits/Arco_Valentino_Dense_vox12.ply"  --reconstructedDataPath="DecodedPCs/cfg_Arco_Valentino_Dense_vox12.ply.bin.ply"  --compressedStreamPath="Arco_Valentino_Dense_vox12.ply.bin" 
+
+build/tmc3/tmc3  -c /home/datnguyen/Projects/mpeg-pcc-tmc13/cfg/octree-predlift/lossless-geom-lossless-attrs/arco_valentino_dense_vox12/decoder.cfg  --uncompressedDataPath="../Datasets/TestPCs/12bits/Arco_Valentino_Dense_vox12.ply"  --reconstructedDataPath="DecodedPCs/cfg_Arco_Valentino_Dense_vox12.ply.bin.ply"  --compressedStreamPath="Arco_Valentino_Dense_vox12.ply.bin" 
+
+build/tmc3/tmc3  -c /home/datnguyen/Projects/mpeg-pcc-tmc13/cfg/octree-predlift/lossless-geom-lossless-attrs/redandblack_vox10_1550/encoder.cfg  --uncompressedDataPath="../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply"  --reconstructedDataPath="DecodedPCs/cfg_Arco_Valentino_Dense_vox12.ply.bin.ply"  --compressedStreamPath="Arco_Valentino_Dense_vox12.ply.bin" 
+
+build/tmc3/tmc3 --mode=0 --compressedStreamPath="output/bitstream.ply.bin"  --mergeDuplicatedPoints=0 --convertPlyColourspace=1 --trisoupNodeSizeLog2=0  --neighbourAvailBoundaryLog2=8 --intra_pred_max_node_size_log2=6 --planarEnabled=1  --uncompressedDataPath="../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply" --levelOfDetailCount=12 --intraLodPredictionSkipLayers=0  --adaptivePredictionThreshold=64 --qpChromaOffset=0 --qp=4  --bitdepth=8  --attribute=color --colourMatrix=8  --transformType=2
+
+
+make -f  $PWD/scripts/Makefile.tmc13-step -C output/  VPATH=cfg/octree-predlift/lossless-geom-lossless-attrs/redandblack_vox10_1550  ENCODER=build/tmc3/tmc3  DECODER=build/tmc3/tmc3  SRCSEQ=../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply  VERBOSE=1 PCERROR=cfg/octree-predlift/lossless-geom-lossless-attrs/redandblack_vox10_1550/pcerror.cfg 
+
+
+check the lossless decoded: 
+make -f  $PWD/scripts/Makefile.tmc13-step -C output/  VPATH=$PWD/cfg/octree-predlift/lossless-geom-lossless-attrs/redandblack_vox10_1550  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply  VERBOSE=1 PCERROR=$PWD/cfg/octree-predlift/lossless-geom-lossless-attrs/redandblack_vox10_1550/pcerror.cfg   -n
+
+encoding
+/home/datnguyen/Projects/mpeg-pcc-tmc13/build/tmc3/tmc3  -c /home/datnguyen/Projects/mpeg-pcc-tmc13/cfg/octree-predlift/lossless-geom-lossless-attrs/loot_vox10_1200/encoder.cfg  --uncompressedDataPath="../Datasets/TestPCs/10bits/loot_vox10_1000.ply"  --reconstructedDataPath="redandblack_vox10_1510.ply.bin.ply"  --compressedStreamPath="redandblack_vox10_1510.ply.bin" 
+decoding:
+
+/home/datnguyen/Projects/mpeg-pcc-tmc13/build/tmc3/tmc3 -c "/home/datnguyen/Projects/mpeg-pcc-tmc13/cfg/octree-predlift/lossless-geom-lossless-attrs/redandblack_vox10_1550/decoder.cfg" --reconstructedDataPath="redandblack_vox10_1510.ply.bin.decoded.ply" --uncompressedDataPath="../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply" --compressedStreamPath="redandblack_vox10_1510.ply.bin" 

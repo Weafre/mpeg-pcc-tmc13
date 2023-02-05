@@ -1,0 +1,1427 @@
+ENCODING: ../Datasets/TestPCs/10bits/phil_0010.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/phil_0010.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 4
+positions bitstream size 5015 B (1.1632 bpp)
+positions processing time (user): 0.041 s
+positions bitstream size 15947 B (1.18888 bpp)
+positions processing time (user): 0.136 s
+positions bitstream size 103967 B (1.17377 bpp)
+positions processing time (user): 0.952 s
+positions bitstream size 98684 B (1.11412 bpp)
+positions processing time (user): 0.94 s
+Total frame size 223664 B
+Total bitstream size 223664 B
+Processing time (wall): 3.158 s
+Processing time (user): 2.994 s
+Decoding: ../Datasets/TestPCs/10bits/phil_0010.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/phil_0010.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 5015 B
+positions processing time (user): 0.018 s
+
+positions bitstream size 15947 B
+positions processing time (user): 0.059 s
+
+positions bitstream size 103967 B
+positions processing time (user): 0.395 s
+
+positions bitstream size 98684 B
+positions processing time (user): 0.386 s
+
+Total bitstream size 223664 B
+Processing time (wall): 1.023 s
+Processing time (user): 0.935 s
+ENCODING: ../Datasets/TestPCs/10bits/ricardo_0010.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/ricardo_0010.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 127330 B (1.06499 bpp)
+positions processing time (user): 1.256 s
+Total frame size 127367 B
+Total bitstream size 127367 B
+Processing time (wall): 1.54 s
+Processing time (user): 1.437 s
+Decoding: ../Datasets/TestPCs/10bits/ricardo_0010.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/ricardo_0010.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 127330 B
+positions processing time (user): 0.509 s
+
+Total bitstream size 127367 B
+Processing time (wall): 0.611 s
+Processing time (user): 0.55 s
+ENCODING: ../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 94460 B (1.08903 bpp)
+positions processing time (user): 0.993 s
+Total frame size 94496 B
+Total bitstream size 94496 B
+Processing time (wall): 1.203 s
+Processing time (user): 1.122 s
+Decoding: ../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 94460 B
+positions processing time (user): 0.431 s
+
+Total bitstream size 94496 B
+Processing time (wall): 0.507 s
+Processing time (user): 0.463 s
+ENCODING: ../Datasets/TestPCs/10bits/loot_vox10_1000.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/loot_vox10_1000.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 93366 B (0.952542 bpp)
+positions processing time (user): 1.107 s
+Total frame size 93402 B
+Total bitstream size 93402 B
+Processing time (wall): 1.345 s
+Processing time (user): 1.259 s
+Decoding: ../Datasets/TestPCs/10bits/loot_vox10_1000.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/loot_vox10_1000.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 93366 B
+positions processing time (user): 0.478 s
+
+Total bitstream size 93402 B
+Processing time (wall): 0.56 s
+Processing time (user): 0.514 s
+ENCODING: ../Datasets/TestPCs/10bits/MPEG_Thaidancer_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_Thaidancer_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 34797 B (0.999049 bpp)
+positions processing time (user): 0.382 s
+Total frame size 34834 B
+Total bitstream size 34834 B
+Processing time (wall): 0.47 s
+Processing time (user): 0.437 s
+Decoding: ../Datasets/TestPCs/10bits/MPEG_Thaidancer_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_Thaidancer_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 34797 B
+positions processing time (user): 0.163 s
+
+Total bitstream size 34834 B
+Processing time (wall): 0.196 s
+Processing time (user): 0.175 s
+ENCODING: ../Datasets/TestPCs/10bits/MPEG_boxer_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_boxer_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 118078 B (0.949276 bpp)
+positions processing time (user): 1.379 s
+Total frame size 118111 B
+Total bitstream size 118111 B
+Processing time (wall): 1.678 s
+Processing time (user): 1.57 s
+Decoding: ../Datasets/TestPCs/10bits/MPEG_boxer_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_boxer_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 118078 B
+positions processing time (user): 0.611 s
+
+Total bitstream size 118111 B
+Processing time (wall): 0.714 s
+Processing time (user): 0.655 s
+ENCODING: ../Datasets/TestPCs/10bits/MPEG_CAT1_Frog_00067_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_CAT1_Frog_00067_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 4
+positions bitstream size 29385 B (1.68111 bpp)
+positions processing time (user): 0.201 s
+positions bitstream size 61612 B (2.06526 bpp)
+positions processing time (user): 0.373 s
+positions bitstream size 149614 B (1.99171 bpp)
+positions processing time (user): 0.925 s
+positions bitstream size 138690 B (1.84628 bpp)
+positions processing time (user): 0.921 s
+Total frame size 379349 B
+Total bitstream size 379349 B
+Processing time (wall): 3.474 s
+Processing time (user): 3.307 s
+Decoding: ../Datasets/TestPCs/10bits/MPEG_CAT1_Frog_00067_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_CAT1_Frog_00067_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 29385 B
+positions processing time (user): 0.096 s
+
+positions bitstream size 61612 B
+positions processing time (user): 0.172 s
+
+positions bitstream size 149614 B
+positions processing time (user): 0.417 s
+
+positions bitstream size 138690 B
+positions processing time (user): 0.412 s
+
+Total bitstream size 379349 B
+Processing time (wall): 1.276 s
+Processing time (user): 1.178 s
+ENCODING: ../Datasets/TestPCs/10bits/MPEG_CAT1_Arco_Valentino_Dense_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_CAT1_Arco_Valentino_Dense_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 643337 B (4.85313 bpp)
+positions processing time (user): 2.381 s
+Total frame size 643370 B
+Total bitstream size 643370 B
+Processing time (wall): 2.696 s
+Processing time (user): 2.584 s
+Decoding: ../Datasets/TestPCs/10bits/MPEG_CAT1_Arco_Valentino_Dense_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_CAT1_Arco_Valentino_Dense_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 643337 B
+positions processing time (user): 1.269 s
+
+Total bitstream size 643370 B
+Processing time (wall): 1.385 s
+Processing time (user): 1.317 s
+ENCODING: ../Datasets/TestPCs/10bits/MPEG_CAT1_Shiva_00035_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_CAT1_Shiva_00035_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 413209 B (3.67162 bpp)
+positions processing time (user): 1.783 s
+Total frame size 413242 B
+Total bitstream size 413242 B
+Processing time (wall): 2.054 s
+Processing time (user): 1.953 s
+Decoding: ../Datasets/TestPCs/10bits/MPEG_CAT1_Shiva_00035_vox10.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/MPEG_CAT1_Shiva_00035_vox10.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 413209 B
+positions processing time (user): 0.95 s
+
+Total bitstream size 413242 B
+Processing time (wall): 1.042 s
+Processing time (user): 0.991 s
+ENCODING: ../Datasets/TestPCs/10bits/PAULO_bumbameuboi.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/PAULO_bumbameuboi.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 151181 B (2.31175 bpp)
+positions processing time (user): 0.923 s
+Total frame size 151218 B
+Total bitstream size 151218 B
+Processing time (wall): 1.083 s
+Processing time (user): 1.021 s
+Decoding: ../Datasets/TestPCs/10bits/PAULO_bumbameuboi.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/PAULO_bumbameuboi.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 151181 B
+positions processing time (user): 0.447 s
+
+Total bitstream size 151218 B
+Processing time (wall): 0.505 s
+Processing time (user): 0.471 s
+ENCODING: ../Datasets/TestPCs/10bits/PAULO_romanoillamp.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 0
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : ""
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/PAULO_romanoillamp.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    srcUnitLength             : 1
+    srcUnit                   : 0 (Dimensionless)
+    inputScale                : 1
+    codingScale               : 1
+    sequenceScale             : 1
+    positionQuantizationScale : 1
+    externalScale             : 1
+    sortInputByAzimuth               : 0
+    geometry_axis_order              : 1 (xyz)
+    autoSeqBbox                      : 1
+    seqOrigin                        : 0, 0, 0
+    seqSizeWhd                       : 0, 0, 0
+    mergeDuplicatedPoints            : 0
+    partitionMethod                  : 4 (UniformSquare)
+    partitionOctreeDepth             : 1
+    sliceMaxPoints                   : 1100000
+    sliceMinPoints                   : 550000
+    tileSize                         : 0
+    cabac_bypass_stream_enabled_flag : 0
+    entropyContinuationEnabled       : 0
+    disableAttributeCoding           : 0
+    enforceLevelLimits               : 1
+    geomTreeType                       : 0
+    qtbtEnabled                        : 1
+    maxNumQtBtBeforeOt                 : 4
+    minQtbtSizeLog2                    : 0
+    numOctreeEntropyStreams            : 0
+    bitwiseOccupancyCoding             : 1
+    neighbourAvailBoundaryLog2         : 7
+    inferredDirectCodingMode           : 0
+    jointTwoPointIdcm                  : 1
+    adjacentChildContextualization     : 1
+    intra_pred_max_node_size_log2      : 6
+    planarEnabled                      : 1
+    planarModeThreshold0               : 77
+    planarModeThreshold1               : 99
+    planarModeThreshold2               : 113
+    planarModeIdcmUse                  : -1
+    trisoupNodeSizeLog2                : 
+    trisoup_sampling_value             : 0
+    positionQuantisationEnabled        : 0
+    positionQuantisationMethod         : 0 (Uniform)
+    positionQpMultiplierLog2           : 0
+    positionBaseQp                     : 0
+    positionIdcmQp                     : 0
+    positionSliceQpOffset              : 0
+    positionQuantisationOctreeSizeLog2 : -1
+    positionQuantisationOctreeDepth    : -1
+    positionBaseQpFreqLog2             : 8
+    positionSliceQpFreqLog2            : -8
+    angularEnabled                     : 0
+    lidarHeadPosition                  : 0, 0, 0
+    numLasers                          : 0
+    lasersTheta                        : 
+    lasersZ                            : 
+    lasersNumPhiPerTurn                : 
+    planarBufferDisabled               : 0
+    predGeomAzimuthQuantization        : 1
+    positionAzimuthScaleLog2           : 5
+    positionAzimuthSpeed               : 362
+    positionRadiusInvScaleLog2         : 0
+    predGeomSort                       : 1 (Morton)
+    predGeomAzimuthSortPrecision       : 0
+    predGeomTreePtsMax                 : 1100000
+    pointCountMetadata                 : 0
+    recolourSearchRange                             : 1
+    recolourNumNeighboursFwd                        : 8
+    recolourNumNeighboursBwd                        : 1
+    recolourUseDistWeightedAvgFwd                   : 1
+    recolourUseDistWeightedAvgBwd                   : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentFwd : 1
+    recolourSkipAvgIfIdenticalSourcePointPresentBwd : 0
+    recolourDistOffsetFwd                           : 4
+    recolourDistOffsetBwd                           : 4
+    recolourMaxGeometryDist2Fwd                     : 1000
+    recolourMaxGeometryDist2Bwd                     : 1000
+    recolourMaxAttributeDist2Fwd                    : 1000
+    recolourMaxAttributeDist2Bwd                    : 1000
+
+Slice number: 1
+positions bitstream size 181537 B (2.43694 bpp)
+positions processing time (user): 1.083 s
+Total frame size 181574 B
+Total bitstream size 181574 B
+Processing time (wall): 1.265 s
+Processing time (user): 1.197 s
+Decoding: ../Datasets/TestPCs/10bits/PAULO_romanoillamp.ply
+MPEG PCC tmc3 version release-v14.0-0-gc3c9798
++ Effective configuration parameters
+    mode                  : 1
+    firstFrameNum         : 0
+    frameCount            : 1
+    reconstructedDataPath : "output.ply.bin.decoded.ply"
+    uncompressedDataPath  : "../Datasets/TestPCs/10bits/PAULO_romanoillamp.ply"
+    compressedStreamPath  : "output/bitstream.ply.bin"
+    postRecolorPath       : ""
+    preInvScalePath       : ""
+    convertPlyColourspace : 1
+    outputBinaryPly       : 1
+    outputUnitLength      : 1
+    outputScaling         : 1 (External)
+    outputPrecisionBits   : -1
+    skipOctreeLayers : 0
+    decodeMaxPoints  : 0
+
+positions bitstream size 181537 B
+positions processing time (user): 0.527 s
+
+Total bitstream size 181574 B
+Processing time (wall): 0.591 s
+Processing time (user): 0.556 s

@@ -13,7 +13,7 @@
 #   <base_path> is the path used by MPEG::PCC::Parse::Experiment::Df
 #   <src_ply> is the source ply
 #
-
+#print "********************************";
 use strict;
 
 use FindBin;
@@ -29,6 +29,7 @@ my %columns;
 # process all the data (to get list of columns)
 my @results;
 
+
 # To process multiple files, turn the following into a loop:
 my ($condition, $sequence, $variant, $base_path, $src_ply) = @ARGV;
 my $line = readTmc3Results($base_path, $src_ply);
@@ -37,6 +38,7 @@ $line->{config} = $condition;
 $line->{sequence} = $sequence;
 $line->{variant} = $variant;
 push @results, $line;
+
 
 # output data
 BLOCK: {
@@ -51,6 +53,7 @@ BLOCK: {
 	foreach my $line (@results) {
 		print "@$line{@out_order_cols}\n";
 	}
+
 }
 
 
