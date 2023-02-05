@@ -38,7 +38,7 @@ Output/*
 DecodedPCs/
 OutputGeoOctree/
 OutputGeoTrisoup/
-
+OutputPredGeo2/
 OutputPredGeo/
 .DS_Store
 # Cmake
