@@ -17,13 +17,13 @@ pcs=(  "Shiva_00035_vox12.ply"   "Frog_00067_vox12.ply"  "House_without_roof_000
 
 
 
-# for idx in "${!dirs[@]}";
-# do
-#   for ridx in {0..14}; do
-#   make -f  $PWD/scripts/Makefile.tmc13-step -C "OutputPredGeo2${rates[$ridx]}"  VPATH="${cfgs[$idx]}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
+for idx in "${!dirs[@]}";
+do
+  for ridx in {0..14}; do
+  make -f  $PWD/scripts/Makefile.tmc13-step -C "OutputPredGeo2${rates[$ridx]}"  VPATH="${cfgs[$idx]}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
 
-# done
-# done
+done
+done
 
 
 {

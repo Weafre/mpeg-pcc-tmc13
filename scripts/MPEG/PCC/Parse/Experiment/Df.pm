@@ -30,7 +30,6 @@ sub readTmc3Results {
 # process a binary, allowing results to be aggregated
 sub readTmc3ResultsOneBin {
 	my ($base_path) = @_;
-
 	my $file_bytes = -s "$base_path.bin";
 	my ($enc_utime, $enc_maxrssk) = readTime("$base_path.bin.time");
 	my ($dec_utime, $dec_maxrssk) = readTime("$base_path.bin.decoded.time");
