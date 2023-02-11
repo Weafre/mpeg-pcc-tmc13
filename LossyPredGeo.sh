@@ -25,7 +25,7 @@ cfgs=("/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-
 for idx in "${!dirs[@]}";
 do
   for ridx in {0..14}; do
-  make -f  $PWD/scripts/Makefile.tmc13-step -C "OutputNoPredGeo${rates[$ridx]}"  VPATH="${cfgs[$idx]}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
+  make -f  $PWD/scripts/Makefile.tmc13-step -C "OutputPredGeo${rates[$ridx]}"  VPATH="${cfgs[$idx]}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
 
 done
 done
@@ -35,7 +35,7 @@ done
 for idx in "${!dirs[@]}";
 do
   for ridx in {0..14}; do
-  scripts/collect-tmc13.pl  "${cfgs[$idx]}${rates[$ridx]}" ${pcs[$idx]}  0   "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputNoPredGeo${rates[$ridx]}/${pcs[$idx]}"  ${dirs[$idx]}
+  scripts/collect-tmc13.pl  "${cfgs[$idx]}${rates[$ridx]}" ${pcs[$idx]}  0   "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputPredGeo${rates[$ridx]}/${pcs[$idx]}"  ${dirs[$idx]}
   done
 done
 }> TestPredGeo.txt
