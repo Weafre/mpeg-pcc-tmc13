@@ -40,7 +40,7 @@ done
 
 
 
-
+./LossyNoPredGeo.sh
 
 
 
