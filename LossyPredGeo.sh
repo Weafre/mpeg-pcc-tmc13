@@ -12,9 +12,6 @@ rates=("/r01" "/r02" "/r03" "/r04" "/r05" "/r06" "/r07" "/r08" "/r09" "/r10" "/r
 pcs=(  "Shiva_00035_vox12.ply"   "Frog_00067_vox12.ply"  "House_without_roof_00057_vox12.ply"  "Arco_Valentino_Dense_vox12.ply"  "Egyptian_mask_vox12.ply"  "Facade_00009_vox12.ply"  )
 
 
-dirs=( "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/Shiva_00035_vox12.ply" )
-
-
 
 
 cfgs=("/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-geom-lossy-attrs/shiva_00035_vox12"   "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-geom-lossy-attrs/frog_00067_vox12"  "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-geom-lossy-attrs/house_without_roof_00057_vox12"  "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-geom-lossy-attrs/arco_valentino_dense_vox12"  "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-geom-lossy-attrs/egyptian_mask_vox12"  "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_allQP/predgeom-raht/lossy-geom-lossy-attrs/facade_00009_vox12"    )
