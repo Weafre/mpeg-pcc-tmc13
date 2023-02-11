@@ -33,7 +33,7 @@ do
   scripts/collect-tmc13.pl  "${cfgs[$idx]}${rates[$ridx]}" ${pcs[$idx]}  0   "/home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputNoPredGeo${rates[$ridx]}/${pcs[$idx]}"  ${dirs[$idx]}
   done
 done
-}> TestPredGeo.txt
+}> TestNoPredGeo.txt
 
 # {
 # for idx in "${!dirs[@]}";
