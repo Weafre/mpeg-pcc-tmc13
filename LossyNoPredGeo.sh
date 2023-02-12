@@ -33,7 +33,7 @@ do
 done
 }> TestNoPredGeo.txt
 
-./LossyPredGeo.sh
+
 # {
 # for idx in "${!dirs[@]}";
 # do
