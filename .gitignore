@@ -40,6 +40,9 @@ OutputGeoOctree/
 OutputGeoTrisoup/
 OutputPredGeo2/
 OutputPredGeo/
+Bjontegraad/*
+DecodedPCs/*
+build/*
 .DS_Store
 # Cmake
 build/
