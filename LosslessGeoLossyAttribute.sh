@@ -19,7 +19,7 @@ cfg="/home/datnguyen/Projects/MPEG/tmc13-v14/cfg_attribute/octree-raht/lossless-
 for idx in "${!dirs[@]}";
 do
   for ridx in {0..1}; do
-  make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/mpeg-pcc-dmetric-master/test/pc_error
+  make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${dirs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error
 
 done
 done
