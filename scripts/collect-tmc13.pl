@@ -47,12 +47,16 @@ BLOCK: {
 		sort keys %columns,
 	);
 
+
 	local $" = ',';
 	print "@out_order_cols\n";
 
+
 	foreach my $line (@results) {
 		print "@$line{@out_order_cols}\n";
+
 	}
+
 
 }
 

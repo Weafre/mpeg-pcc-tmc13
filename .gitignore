@@ -36,6 +36,7 @@
 #
 Output/*
 DecodedPCs/
+LossyAttribute/*
 OutputGeoOctree/
 OutputGeoTrisoup/
 OutputPredGeo2/

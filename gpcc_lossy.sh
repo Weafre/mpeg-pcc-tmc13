@@ -60,4 +60,4 @@ done
 
 # scripts/collect-tmc13.pl  /home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg/predgeom-raht/lossless-geom-lossy-attrs/loot_vox10_1200 loot_vox10_1200 0 /home/datnguyen/Projects/mpeg-pcc-tmc13v14/Output/r02/loot_vox10_1200.ply  /home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/Arco_Valentino_Dense_vox12.ply
 
-# scripts/collect-tmc13-2.pl  /home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_multiQP/octree-raht/lossy-geom-lossy-attrs/loot_vox10_1200 loot_vox10_1200 0 /home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputGeoOctree/r02/loot_vox10_1200.ply  /home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/loot_vox10_1200.ply
+# scripts/collect-tmc13-dyna.pl  /home/datnguyen/Projects/mpeg-pcc-tmc13v14/cfg_multiQP/octree-raht/lossy-geom-lossy-attrs/loot_vox10_1200 loot_vox10_1200 0 /home/datnguyen/Projects/mpeg-pcc-tmc13v14/OutputGeoOctree/r02/loot_vox10_1200.ply  /home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/Static_Objects_and_Scenes/Cat1_quantized/loot_vox10_1200.ply
