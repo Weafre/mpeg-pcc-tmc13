@@ -48,12 +48,12 @@ BLOCK: {
 #	);
 
 	my @out_order_cols = (
-		qw{sequence dec.y-psnr dec.cb-psnr dec.cr-psnr enc.bits.colour enc.wtime frame src.numpoints},
+		qw{sequence dec.y-psnr dec.cb-psnr dec.cr-psnr enc.bits.colour enc.bpp.colour enc.wtime src.numpoints},
 
 	);
 
 	local $" = "\t";
-	print "@out_order_cols\n";
+	#print "@out_order_cols\n";
 
 
 	foreach my $line (@results) {
