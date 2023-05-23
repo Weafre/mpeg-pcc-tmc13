@@ -8,31 +8,34 @@ cfg="/home/datnguyen/Projects/MPEG/tmc13-v14/cfg_attribute/octree-raht/lossless-
 test_dirs=("/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/MPEG8i/redandblack/Ply"  " /home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/MVUB/phil10/ply" "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/MVUB/ricardo10/ply"  "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/Owlii/basketball_vox10"  "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/Owlii/dancer_vox10" )
 
 for dir in test_dirs; do
-  pcs=( )
-  names=()
-  for entry in "$dir"/*;
-  do
-    pcs+=($entry)
-    basename=$(basename ${entry})
-    names+=($basename)
+pcs=( )
+names=()
+
+for entry in "$dir"/*
+do
+  pcs+=($entry)
+  basename=$(basename ${entry})
+  names+=($basename)
+done
+
+
+for ridx in {0..5}; do
+for idx in "${!pcs[@]}";
+do
+  make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${pcs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error
+done
+done
+
+{
+for ridx in {0..5}; do
+for idx in "${!pcs[@]}";
+do
+  #scripts/collect-tmc13.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
+   scripts/collect-tmc13-dyna.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
   done
+done
+}  > "LossyAttribute/${names[-1]}.txt"
 
-
-  for ridx in {0..5}; do
-    for idx in "${!pcs[@]}";do
-      make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${pcs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error
-
-    done
-  done
-
-  {
-  for ridx in {0..5}; do
-    for idx in "${!pcs[@]}";do
-      #scripts/collect-tmc13.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
-       scripts/collect-tmc13-dyna.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
-    done
-  done
-  } > "LossyAttribute/${names[-1]}.txt"
 done
 
 
