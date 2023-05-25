@@ -1,0 +1,680 @@
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1000.ply	29.4246	41.0704	40.6543	5928	5.122		
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1001.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1002.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1003.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1004.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1005.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1006.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1007.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1008.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1009.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1010.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1011.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1012.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1013.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1014.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1015.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1016.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1017.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1018.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1019.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1020.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1021.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1022.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1023.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1024.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1025.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1026.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1027.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1028.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1029.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1030.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1031.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1032.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1033.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1034.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1035.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1036.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1037.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1038.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1039.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1040.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1041.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1042.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1043.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1044.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1045.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1046.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1047.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1048.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1049.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1050.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1051.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1052.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1053.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1054.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1055.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1056.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1057.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1058.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1059.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1060.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1061.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1062.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1063.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1064.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1065.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1066.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1067.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1068.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1069.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1070.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1071.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1072.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1073.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1074.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1075.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1076.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1077.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1078.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1079.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1080.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1081.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1082.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1083.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1084.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1085.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1086.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1087.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1088.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1089.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1090.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1091.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1092.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1093.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1094.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1095.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1096.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1097.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1098.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1099.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1100.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1101.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1102.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1103.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1104.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1105.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1106.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1107.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1108.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1109.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1110.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1111.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1112.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1113.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1114.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1115.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1116.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1117.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1118.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1119.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1120.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1121.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1122.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1123.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1124.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1125.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1126.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1127.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1128.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1129.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1130.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1131.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1132.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1133.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1134.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1135.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1136.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1137.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1138.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1139.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1140.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1141.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1142.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1143.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1144.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1145.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1146.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1147.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1148.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1149.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1150.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1151.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1152.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1153.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1154.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1155.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1156.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1157.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1158.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1159.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1160.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1161.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1162.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1163.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1164.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1165.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1166.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1167.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1168.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1169.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1170.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1171.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1172.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1173.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1174.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1175.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1176.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1177.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1178.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1179.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1180.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1181.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1182.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1183.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1184.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1185.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1186.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1187.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1188.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1189.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1190.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1191.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1192.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1193.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1194.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1195.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1196.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1197.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1198.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1199.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1200.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1201.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1202.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1203.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1204.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1205.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1206.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1207.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1208.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1209.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1210.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1211.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1212.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1213.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1214.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1215.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1216.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1217.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1218.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1219.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1220.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1221.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1222.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1223.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1224.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1225.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1226.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1227.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1228.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1229.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1230.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1231.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1232.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1233.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1234.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1235.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1236.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1237.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1238.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1239.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1240.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1241.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1242.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1243.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1244.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1245.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1246.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1247.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1248.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1249.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1250.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1251.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1252.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1253.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1254.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1255.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1256.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1257.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1258.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1259.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1260.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1261.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1262.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1263.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1264.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1265.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1266.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1267.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1268.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1269.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1270.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1271.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1272.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1273.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1274.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1275.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1276.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1277.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1278.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1279.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1280.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1281.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1282.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1283.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1284.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1285.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1286.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1287.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1288.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1289.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1290.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1291.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1292.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1293.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1294.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1295.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1296.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1297.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1298.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1299.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1000.ply	30.9128	43.1504	42.7387	13576	5.375		
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1001.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1002.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1003.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1004.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1005.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1006.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1007.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1008.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1009.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1010.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1011.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1012.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1013.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1014.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1015.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1016.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1017.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1018.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1019.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1020.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1021.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1022.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1023.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1024.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1025.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1026.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1027.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1028.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1029.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1030.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1031.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1032.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1033.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1034.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1035.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1036.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1037.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1038.ply							
+sequence	dec.y-psnr	dec.cb-psnr	dec.cr-psnr	enc.bits.colour	enc.wtime	frame	src.numpoints
+loot_vox10_1039.ply							
