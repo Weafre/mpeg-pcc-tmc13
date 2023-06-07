@@ -32,9 +32,10 @@ mkdir "LossyAttribute/${pc_names[$dir_idx]}${rates[$ridx]}"
 for idx in "${!pcs[@]}";
 do
   make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute/${pc_names[$dir_idx]}${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${pcs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error &
+  if (( $idx % 15 == 0 )); then wait; fi
+done
 done
 wait
-done
 
 
 {
