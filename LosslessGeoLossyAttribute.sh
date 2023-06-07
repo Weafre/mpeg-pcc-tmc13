@@ -25,13 +25,13 @@ do
 done
 echo $pcs 
 #echo $dir
-mkdir "LossyAttribute/_nopred_${pc_names[$dir_idx]}"
+mkdir "LossyAttribute/no_pred_${pc_names[$dir_idx]}"
 
 for ridx in {0..5}; do
-mkdir "LossyAttribute/_no_pred_${pc_names[$dir_idx]}${rates[$ridx]}"
+mkdir "LossyAttribute/no_pred_${pc_names[$dir_idx]}${rates[$ridx]}"
 for idx in "${!pcs[@]}";
 do
-  make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute/_no_pred_${pc_names[$dir_idx]}${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${pcs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error &
+  make -f  $PWD/scripts/Makefile.tmc13-step -C "LossyAttribute/no_pred_${pc_names[$dir_idx]}${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${pcs[$idx]}  VERBOSE=1 PCERROR=/home/datnguyen/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error &
   if (( $idx % 15 == 0 )); then wait; fi
 done
 done
@@ -43,10 +43,10 @@ for ridx in {0..5}; do
 for idx in "${!pcs[@]}";
 do
   #scripts/collect-tmc13.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
-   scripts/collect-tmc13-dyna.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute/_no_pred_${pc_names[$dir_idx]}${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
+   scripts/collect-tmc13-dyna.pl  "${cfg}${rates[$ridx]}" ${names[$idx]}  0   "/home/datnguyen/Projects/MPEG/tmc13-v14/LossyAttribute/no_pred_${pc_names[$dir_idx]}${rates[$ridx]}/${names[$idx]}"  ${pcs[$idx]}
   done
 done
-}  > "LossyAttribute/_no_pred_${pc_names[$dir_idx]}.txt"
+}  > "LossyAttribute/no_pred_${pc_names[$dir_idx]}.txt"
 
 done
 
