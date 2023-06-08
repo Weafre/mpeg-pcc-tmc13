@@ -9,8 +9,8 @@ test_dirs=("/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_Test
 pc_names=("loot10" "redandblack10" "phil10" "ricardo10" "basketball_vox10" "dancer_vox10")
 
 
-test_dirs=( "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/MPEG8i/loot/Ply"   )
-pc_names=( "loot10" )
+#test_dirs=( "/home/datnguyen/Projects/Datasets/MPEG_MVUB_CAT_9_12bits/10bits_TestPCs/MPEG8i/loot/Ply"   )
+#pc_names=( "loot10" )
 
 for dir_idx in "${!test_dirs[@]}"; do
 dir=${test_dirs[$dir_idx]}
