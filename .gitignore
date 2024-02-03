@@ -61,3 +61,5 @@ CMakeCache.txt
 *.cmake
 .idea
 DerivedData
+conf2023/*
+conf2023/*
