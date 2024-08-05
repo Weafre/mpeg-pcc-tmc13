@@ -34,7 +34,7 @@ mkdir "journal2024/${pc_names[$dir_idx]}${rates[$ridx]}"
 for idx in "${!pcs[@]}";
 do
   make -f  $PWD/scripts/Makefile.tmc13-step -C "journal2024/${pc_names[$dir_idx]}${rates[$ridx]}"  VPATH="${cfg}${rates[$ridx]}"  ENCODER=$PWD/build/tmc3/tmc3  DECODER=$PWD/build/tmc3/tmc3  SRCSEQ=${pcs[$idx]}  VERBOSE=1 PCERROR=/home/ke76boqe/Projects/MPEG/mpeg-pcc-dmetric-master/test/pc_error &
-  #if (( $idx % 14 == 0 )); then wait; fi
+  if (( $idx % 14 == 0 )); then wait; fi # for multi processing purpose, processed must be finished before reading result
 done
 done
 wait
