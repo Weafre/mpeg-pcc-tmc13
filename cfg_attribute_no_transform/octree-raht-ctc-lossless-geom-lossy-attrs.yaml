@@ -101,7 +101,7 @@ categories:
        - !conditional '${src-unit-metres}'
        - outputUnitLength: '${src-unit-metres}'
 
-     - convertPlyColourspace: 1
+     - convertPlyColourspace: 0
 
     pcerrorflags:
      - dropdups: 2
