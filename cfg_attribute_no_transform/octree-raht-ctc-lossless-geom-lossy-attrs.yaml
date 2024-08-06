@@ -106,7 +106,7 @@ categories:
     pcerrorflags:
      - dropdups: 2
      - neighborsProc: 1
-     - mseSpace: 0
+     - mseSpace: 1
 
     sequences:
       # cat3
