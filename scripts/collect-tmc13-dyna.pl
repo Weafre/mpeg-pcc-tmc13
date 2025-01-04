@@ -48,7 +48,7 @@ BLOCK: {
 #	);
 
 	my @out_order_cols = (
-		qw{sequence dec.y-psnr dec.cb-psnr dec.cr-psnr enc.bits.colour enc.bpp.colour enc.wtime src.numpoints},
+		qw{sequence dec.y-psnr dec.cb-psnr dec.cr-psnr enc.bits.colour enc.bpp.colour enc.wtime enc.ctime enc.gtime src.numpoints},
 
 	);
 

@@ -29,11 +29,21 @@ sub readEncLog {
 			$result{"enc.bpp.$key"} += $3;
 			next;
 		}
+		if (m{^positions processing time \(user\): (\d+(\.\d+)?) s}) {
+			$result{'enc.gtime'} = $1 ;
+			next;
+		}
+
+		if (m{^colors processing time \(user\): (\d+(\.\d+)?) s}) {
+			$result{'enc.ctime'} = $1 ;
+			next;
+		}
 
 		if (m{^Total bitstream size (\d+) B}) {
 			$result{'enc.bits'} = $1 * 8;
 			next;
 		}
+
 
 		if (m{^Processing time \(wall\): (\d+(\.\d+)?) s}) {
 			$result{'enc.wtime'} = $1;

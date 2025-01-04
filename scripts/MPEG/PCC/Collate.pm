@@ -16,6 +16,8 @@ our @out_order_cols = qw{
 	enc.status dec.status dec.enc.match
 	enc.wtime enc.utime
 	dec.wtime dec.utime
+	enc.time enc.ctime
+	enc.gtime enc.gtime
 	enc.ext.utime dec.ext.utime enc.ext.maxrssk dec.ext.maxrssk
 
 	enc.ext.bits enc.bits enc.ext.bpp enc.bpp
@@ -49,7 +51,7 @@ our @fold_mean_arith = qw{
 
 our @fold_sum = (@fold_mean_arith, qw{
 	src.framecount dec.framecount
-	enc.ext.utime enc.wtime enc.utime
+	enc.ext.utime enc.wtime enc.utime enc.ctime enc.gtime
 	dec.ext.utime dec.wtime dec.utime
 	enc.ext.bits
 	enc.bits enc.bits.geometry enc.bits.colour enc.bits.reflectance
